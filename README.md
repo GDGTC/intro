@@ -1,4 +1,4 @@
-[Intro Slides](https://docs.google.com/presentation/d/1LTeaX-13TdGpy-xHi5BWUdiz_29PIlgPcMWkuWbO84s/pub?start=false&loop=true&delayms=5000&slide=id.p)
+[Intro Slides](https://docs.google.com/presentation/d/1cDzzEcKxb0KyqIHnBfBwQHDx71za1qKstNY-joddFDs/edit#slide=id.p)
 
 ## Intro Links
 - https://developers.google.com/groups/
