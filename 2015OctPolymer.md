@@ -1,5 +1,6 @@
 ##Resources
 - http://www.code-labs.io/polymer-summit
+- https://elements.polymer-project.org/
  
 ####likely outdated
 - http://itshackademic.com/codelabs
