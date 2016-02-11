@@ -6,6 +6,7 @@
 - https://developers.google.com/experts/
 - http://gdgtc.com
 - http://meetup.com/gdg-tc
+- http://www.meetup.com/gdg-tc/pages/code_of_conduct/
 - We need YOU - Volunteer to Speak
 
 ## Wrapup Links
