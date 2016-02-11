@@ -10,4 +10,4 @@
 - We need YOU - Volunteer to Speak
 
 ## Wrapup Links
-- [Exit Survey](bit.ly/gdgsurveytc) - bit.ly/gdgsurveytc
+- [Exit Survey](http://bit.ly/gdgsurveytc) - bit.ly/gdgsurveytc
