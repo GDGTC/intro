@@ -11,3 +11,4 @@
 
 ## Wrapup Links
 - [Exit Survey](http://bit.ly/gdgsurveytc) - bit.ly/gdgsurveytc
+- [editable note](data:text/html, <html contenteditable><body><h2>Help us give a talk</h2><h2>survey: https://bit.ly/gdgsurveytc</h2>)
