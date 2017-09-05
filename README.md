@@ -10,5 +10,5 @@
 - We need YOU - Volunteer to Speak
 
 ## Wrapup Links
-- [Exit Survey](http://bit.ly/gdgsurveytc) - bit.ly/gdgsurveytc
+- [Exit Survey](https://gdgtc.com/survey) - gdgtc.com/survey
 - [editable note page](https://lloydlentz.com/gdg/note.html)
