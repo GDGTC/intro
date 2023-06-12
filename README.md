@@ -4,7 +4,7 @@
 - https://developers.google.com/groups/
 - http://meetup.com/gdg-tc
 - http://www.meetup.com/gdg-tc/pages/code_of_conduct/
-- GDG Code of Conduct - https://support.google.com/developergroups/answer/3340512?hl=en
+- GDG Code of Conduct - https://www.google.com/events/policy/anti-harassmentpolicy.html
 - We need YOU - Volunteer to Speak
 
 ## Wrapup Links
