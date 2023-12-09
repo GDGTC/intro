@@ -1,6 +1,8 @@
 [Intro Slides](https://docs.google.com/presentation/d/1LTeaX-13TdGpy-xHi5BWUdiz_29PIlgPcMWkuWbO84s/pub?start=true&loop=true&delayms=5000)   --[edit](https://docs.google.com/presentation/d/1LTeaX-13TdGpy-xHi5BWUdiz_29PIlgPcMWkuWbO84s/edit)
 
 ## Intro Links
+- [Dad Joke](https://g.co/bard/share/3484d5cd6f9d)
+- [Share your Linked In](https://www.linkedin.com/help/linkedin/answer/a525286/using-a-linkedin-qr-code-to-connect-with-members?lang=en-us&intendedLocale=en)
 - https://developers.google.com/community/gdsc
 - https://developers.google.com/groups/
 - https://developers.google.com/community/experts
